@@ -382,18 +382,3 @@
 |  380   |  https://github.com/SubSage/GDCalaga/pull/6    |     code style reformat/control stream(java ternary conditional operator)                |
 |  381   |  https://github.com/cbeust/testng/pull/331    |   use apis/control stream(java conditional expression simplification)/merge imports                  |
 |  382   |  https://github.com/Silverpeas/Silverpeas-Core/pull/247    |  extract(extract method)/merge imports                   |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
