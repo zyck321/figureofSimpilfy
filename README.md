@@ -271,19 +271,117 @@
 | 269    | https://github.com/proximax-storage/java-nis1-xipfs-sdk/pull/24     |      extract(extract variable;extract method)               |
 |  270   |  https://github.com/Catrobat/Catroid/pull/2826    |    extract(extract method;extract variable)                 |
 |  271   |  https://github.com/Tobiasz-Rumian/Struktury_danych_i_zlozonosc_obliczeniowa_Projekt_1/pull/1    |            extract(extract method)         |
-| 272    |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
-|     |      |                     |
+| 272    |   https://github.com/Kiali-QE/jaeger-java-test/pull/15   |     extract(extract variable)/delete                |
+|  273   |  https://github.com/ddekanski/BottomNavigationViewBetweenActivities/pull/4    |     use apis                |
+|  274   |   https://github.com/taylorbernt0/AlgebraSolver/pull/2   |   control stream(inline function return)                  |
+|   275  |   https://github.com/json-iterator/java/pull/142   |     control stream(inline function return)                |
+|  276   |  https://github.com/MineMaarten/Signals/pull/51    |       lambda              |
+|  277   | https://github.com/linagora/james-project/pull/1267     |    use apis/inline(inline variable)                 |
+| 278    |  https://github.com/dhis2/dhis2-core/pull/1274    |     inline(inline variable)                |
+|  279   |  https://github.com/apache/servicecomb-java-chassis/pull/235    |    use apis                 |
+|  280   |  https://github.com/JetBrains/android/pull/1    |    control stream(java ternary conditional operator)                 |
+| 281    |  https://github.com/gytis/java-spring-cloud/pull/1    |    extract(extract method;extract variable)                 |
+|  282   |  https://github.com/apache/jmeter/pull/327    |   control stream(inline function return)                  |
+|  283   |  https://github.com/fabik/fi-muni-PA165-music-library/pull/19    |    control stream(inline function return)/use apis                 |
+|  284   |  https://github.com/microsoft/azure-maven-plugins/pull/48    |   extract(extract method;extract variable)                  |
+|  285   |  https://github.com/crossbario/autobahn-java/pull/253    |     control stream(inline function return)/extract(extract variable)                |
+|  286   |  https://github.com/confluentinc/kafka-rest/pull/322    |        delete             |
+|   287  |   https://github.com/elki-project/elki/pull/37   |     control stream(java conditional expression simplification)                |
+|   288  |  https://github.com/elki-project/elki/pull/36    |  control stream(java conditional expression simplification)                   |
+|  289   |  https://github.com/gmazza/tightblog/pull/701    |       extract(extract method)              |
+|   290  |  https://github.com/fengjiachun/Jupiter/pull/17    |   extract(extract statements)                  |
+|  291   |   https://github.com/dakusui/cmd/pull/6   |     extract(extract method)                |
+|  292   |  https://github.com/yahoo/elide/pull/442    |     extract(extract variable)/lambda                |
+|   293  |   https://github.com/adimova/smarthome/pull/5   |    extract(extract method)                 |
+| 294    |  https://github.com/PCGen/pcgen/pull/2040    |   control stream(replace loop with pipeline)                  |
+|  295   |  https://github.com/PCGen/pcgen/pull/1969    |        lambda             |
+|  296   |  https://github.com/shooter7223/PRCD-CTLM/pull/3    |    extract(extract method)                 |
+|  297   |  https://github.com/PCGen/pcgen/pull/2003    |       lambda/control stream(inline function return)              |
+|   298  |  https://github.com/hal/testsuite/pull/235    |      extract(extract method)               |
+|  299   |  https://github.com/jenkinsci/pipeline-maven-plugin/pull/20    |  extract(extract variable)/inline(inline variable)                   |
+|   300  |  https://github.com/snowble/vertical-stepper/pull/132    |    control stream(inline function return)/extract(extract variable)/inline(inline variable)                 |
+|  301   | https://github.com/jitsi/libjitsi/pull/207     |     extract(extract statements)                |
+|   302  |  https://github.com/smartcat-labs/cassandra-diagnostics/pull/159    |     control stream(merge conditions)                |
+|   303  | https://github.com/braintree/android-card-form/pull/18     |   extract(extract method)                  |
+|  304   | https://github.com/FrederikGoovaerts/SnakesAndLadders/pull/5     |  control stream(inline function return)                   |
+|   305  |  https://github.com/MatthijsKok/TI2206-Software-Engineering-Methods/pull/86    |    use apis/extract(extract variable)/inline(inline variable)                 |
+|   306  |   https://github.com/kbase/workspace_deluxe/pull/98   |    extract(extract method)                 |
+|  307   |  https://github.com/garysheppardjr/geodev-dc-labs/pull/20    |    extract(extract statements)                 |
+| 308    |  https://github.com/smartcat-labs/cassandra-kinesis/pull/5    |    extract(extract method)                 |
+|  309   |  https://github.com/Laurence45/FizzBuzz/pull/2    |   control stream(reformat if else)                  |
+|  310   | https://github.com/bozaro/p4proto-java/pull/16     |    use apis                 |
+|  311   |  https://github.com/lemire/externalsortinginjava/pull/4    |    java generics initialization                 |
+|  312   |  https://github.com/greenaddress/GreenBits/pull/94    |    control stream(java conditional expression simplification)                 |
+|  313   |  https://github.com/Nukkit/Nukkit/pull/666    |       lambda              |
+|  314   |   https://github.com/apache/kafka/pull/1580   |       delete              |
+|  315   |   https://github.com/broadinstitute/gatk/pull/1918   |     extract(extract variable)/control stream(replace loop with pipeline)/inline(inline variable)                |
+|  316   |   https://github.com/zxing/zxing/pull/601   |     use apis                |
+|  317   |   https://github.com/netty/netty/pull/5611   |     delete                |
+| 318    |  https://github.com/neuralcubes/musephero/pull/16    |     extract(extract method)                |
+|   319  |  https://github.com/PCGen/pcgen/pull/1217    |     java generics initialization/control stream(use foreach for iteration)                |
+| 320    |  https://github.com/apigee/apigee-android-sdk/pull/64    |     control stream(use foreach for iteration)                |
+|   321  |   https://github.com/torodb/stampede/pull/73   |  java generics initialization                   |
+|    322 |  https://github.com/cgeo/cgeo/pull/5559    |    control stream(java conditional expression simplification)                 |
+|   323  |  https://github.com/SpongePowered/SpongeAPI/pull/1115    |       lambda              |
+|  324   | https://github.com/liferay/liferay-faces-bridge-impl/pull/80     |   extract(extract method)                  |
+|  325   |  https://github.com/jbosstools/jbosstools-forge/pull/162    |   java generics initialization                  |
+|  326   |   https://github.com/steveswinsburg/mobile-detect/pull/8   |    control stream(inline function return;java conditional expression simplification)                 |
+|  327   |  https://github.com/JetBrains/jetpad-projectional-open-source/pull/96    |      control stream(merge conditions)/java generics initialization               |
+|  328   |   https://github.com/rmichela/GiantTrees/pull/24   |   java generics initialization                  |
+|  329   |   https://github.com/binarybird/Redress-Disassembler/pull/3   |   java generics initialization                  |
+|  330   |  https://github.com/diffplug/durian/pull/1    |   java generics initialization                  |
+|  331   | https://github.com/nifty-gui/nifty-gui/pull/423     |  java generics initialization                   |
+|   332  |  https://github.com/jiangxincode/SearchEngine/pull/3    |      java generics initialization               |
+|   333  | https://github.com/cerberustesting/cerberus-core/pull/691     |      java generics initialization               |
+|  334   |  https://github.com/JDaren/subtitleConverter/pull/23    |       java generics initialization              |
+|  335   |  https://github.com/Chorus-bdd/Chorus/pull/43    |       java generics initialization              |
+|  336   |  https://github.com/Verigreen/verigreen/pull/107    |       java generics initialization              |
+|   337  |  https://github.com/kanbanik/kanbanik/pull/16    |      java generics initialization               |
+| 338    |  https://github.com/vmi/selenese-runner-java/pull/187    |    java generics initialization                 |
+|   339  |  https://github.com/lightblue-platform/lightblue-core/pull/589    |     java generics initialization                |
+|  340   |  https://github.com/estatio/estatio/pull/23    |     java generics initialization                |
+|   341  |  https://github.com/sebastiangraf/jSCSI/pull/29    |    java generics initialization                 |
+|  342   |   https://github.com/apiman/apiman/pull/387   |     java generics initialization                |
+| 343    |  https://github.com/openpnp/openpnp/pull/213    |    java generics initialization                 |
+|  344   |   https://github.com/pires/obd-java-api/pull/94   |       java generics initialization              |
+|  345   |   https://github.com/jmxtrans/jmxtrans-agent/pull/65   |      java generics initialization                 |
+| 346    |   https://github.com/yellowstonegames/SquidLib/pull/108   |    java generics initialization                 |
+|  347   |  https://github.com/DigitalPebble/storm-crawler/pull/247    |   java generics initialization                  |
+|  348   |  https://github.com/CodeMonkeys3111/AndroidApp/pull/29    |   control stream(reformat if else)                  |
+|  349   |   https://github.com/dexafree/MaterialList/pull/98   |        extract(extract method)             |
+|  350   |  https://github.com/triplea-game/triplea/pull/161    |    extract(extract method)                 |
+|   351  |   https://github.com/perlundq/yajsync/pull/31   |     control stream(inline function return)/merge imports                |
+|   352  | https://github.com/hawkular/hawkular-metrics/pull/384     |     extract(extract variable)                |
+|   353  |   https://github.com/gocd/gocd/pull/1358   |     extract(extract method)                |
+| 354    |   https://github.com/acamilo/CHDK-PTP-Java/pull/5   |      extract(extract method)               |
+|   355  |   https://github.com/SleepyTrousers/EnderIO/pull/1971   |      extract(extract method)/delete               |
+|  356   |   https://github.com/jenkinsci/gerrit-trigger-plugin/pull/225   |  control stream(inline function return)                   |
+|  357   |  https://github.com/simlar/simlar-android/pull/179    |   control stream(inline function return;java conditional expression simplification;use foreach for iteration)/delete                  |
+|  358   | https://github.com/jenkinsci/jenkins/pull/1588     |      use apis               |
+|   359  |  https://github.com/jenkinsci/ghprb-plugin/pull/62    |      delete               |
+|  360   |  https://github.com/weld/core/pull/745    |      lambda               |
+|  361   |  https://github.com/prestodb/presto/pull/2043    |     control stream(inline function return)                |
+| 362    |  https://github.com/brianchandotcom/liferay-portal/pull/19744    |     extract(extract method)                |
+| 363    |   https://github.com/apache/flink/pull/176   |    extract(extract method)                 |
+|  364   |   https://github.com/ProjectKorra/ProjectKorra/pull/12   |    extract(extract method)                 |
+|  365   |  https://github.com/picketlink/picketlink/pull/76    |       extract(extract method)              |
+| 366    |   https://github.com/release-engineering/pom-version-manipulator/pull/29   |    inline(inline method)                 |
+|  367   | https://github.com/elw00d/scribe-java/pull/1     |  extract(extract method)                   |
+|  368   |  https://github.com/apocalyptech/minecraftxray/pull/5    |  extract(extract variable)/delete                   |
+|  369   | https://github.com/Slowpoke101/FTBLaunch/pull/673     |    extract(extract method)                 |
+|  370   |  https://github.com/forge/core/pull/414    |    use apis                 |
+| 371    |  https://github.com/sleuthkit/autopsy/pull/848    |     lambda/extract(extract method)                |
+| 372    |   https://github.com/andrewphorn/ClassiCube-Client/pull/270   |       delete              |
+| 373    |   https://github.com/TonicArtos/StickyGridHeaders/pull/62   |    control stream(inline function return;merge conditions;use foreach for iteration)                 |
+|  374   |  https://github.com/apache/camel/pull/179    |    extract(extract method;extract variable)                 |
+|  375   |  https://github.com/brianchandotcom/liferay-portal/pull/15366    |    inline(inline method)                 |
+| 376    |  https://github.com/Draedalus/PocketConverterProj/pull/13    |  control stream(transform between switch and if)                   |
+|  377   |  https://github.com/robolectric/robolectric/pull/727    |          delete           |
+| 378    |   https://github.com/Sable/heros/pull/1   |     control stream                |
+| 379    | https://github.com/hmsonline/cassandra-indexing/pull/6     |      delete               |
+|  380   |  https://github.com/SubSage/GDCalaga/pull/6    |     code style reformat/control stream(java ternary conditional operator)                |
+|  381   |  https://github.com/cbeust/testng/pull/331    |   use apis/control stream(java conditional expression simplification)/merge imports                  |
+|  382   |  https://github.com/Silverpeas/Silverpeas-Core/pull/247    |  extract(extract method)/merge imports                   |
 |     |      |                     |
 |     |      |                     |
 |     |      |                     |
